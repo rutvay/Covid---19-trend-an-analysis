@@ -1,7 +1,6 @@
 # Covid-19-trend-and-analysis
 <h2> Introduciton </h2>
 <p>This project discusses covid trends and analyse different relations using the dataset sample of india, using various methods of visulaizing the data the trens and outcomes are predicted. 
-  
 <h2>Types of libraries used</h2>
 
 <dl>
