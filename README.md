@@ -16,3 +16,19 @@
 
 
 <h2>Prediction</h2>
+<p> Predicted daily cases from the past data and dsiplayed the effect of lockdown on Covid - 19 chart with sample state as Gujarat </p>
+<p> With the help of fbprophet you can predict trends in time series data with outliers as in this data set.</p>
+
+![image](https://user-images.githubusercontent.com/57539160/120083903-13f41200-c0dd-11eb-860e-4d2344d4117a.png)
+
+
+
+<h2>Conclusion</h2>
+  
+<p>My model predicted daily average cases in Gujarat but due to external factors like Lockdown, the predictions made were not very accurate and differ from real case scenario.</P>
+
+<p> Feel free to contact me for any queries<p>
+<I> Happy Learning and Happy data mining :)</i>
+
+
+
